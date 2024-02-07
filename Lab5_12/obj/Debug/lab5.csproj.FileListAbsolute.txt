@@ -1,0 +1,40 @@
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\User\Downloads\kg 3\кг\KG_laba5\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\User\OneDrive\Рабочий стол\КГ\LR5\Lab5_12\obj\Debug\Lab5_7.Form1.resources
+C:\Users\home\source\repos\LR5\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\home\source\repos\LR5\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\home\source\repos\LR5\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\Lab5_7.Form1.resources
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\home\source\repos\LR5\Lab5_12\obj\Debug\Lab5_7.pdb

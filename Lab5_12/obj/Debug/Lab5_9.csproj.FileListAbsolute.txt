@@ -1,0 +1,10 @@
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\bin\Debug\Lab5_7.exe.config
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\bin\Debug\Lab5_7.exe
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\bin\Debug\Lab5_7.pdb
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_9.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_9.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_9.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_7.exe
+C:\Users\Vitaliy\Desktop\Lab5_9\Lab5_9\obj\Debug\Lab5_7.pdb

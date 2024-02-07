@@ -1,0 +1,58 @@
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Vitaliy\Desktop\Универ\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Темы\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Никитино\УНИВЕР\Cтарое\3 семестр\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.Cache
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojAssemblyReference.cache
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.cache
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.CoreCompileInputs.cache
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+D:\Учеба (ВУЗ)\3 курс\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojAssemblyReference.cache
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.cache
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.CoreCompileInputs.cache
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\alesc\Desktop\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe.config
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\bin\Debug\Lab5_7.pdb
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csprojAssemblyReference.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.GrafikaForm.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.Properties.Resources.resources
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_12.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.exe
+C:\Users\Lera\Downloads\3 курс учеба Угарин\КГ\КГ\КГ_лаба5\Lab5_12\Lab5_12\obj\Debug\Lab5_7.pdb
